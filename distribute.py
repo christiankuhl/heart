@@ -1,5 +1,5 @@
 code = "".join(l.strip() for l in open("src/_main.rs").readlines())
-template = "".join(l for l in open("template.txt").readlines()[7:-2])
+template = "".join(l for l in open("template.txt").readlines())
 
 src = ""
 while len(code)>0 and len(template)>0:
