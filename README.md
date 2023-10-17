@@ -52,3 +52,10 @@ cargo run --release
 ## What you'll see
 
 ![Spinning ASCII Heart GIF](https://github.com/christiankuhl/heart/blob/23b6110b2ccb6a83811f4b3c0ec615a045aac1b7/recording.gif)
+
+
+## Closing words...
+
+`cargo fmt` is somehow not too happy about this one :)
+
+Inspired by the now famous [donut.c](https://www.a1k0n.net/2006/09/15/obfuscated-c-donut.html).
