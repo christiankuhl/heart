@@ -56,6 +56,6 @@ cargo run --release
 
 ## Closing words...
 
-`cargo fmt` is somehow not too happy about this one :)
+`cargo fmt` is somehow not too happy about this one :shrug:
 
 Inspired by the now famous [donut.c](https://www.a1k0n.net/2006/09/15/obfuscated-c-donut.html).
