@@ -51,4 +51,4 @@ cargo run --release
 
 ## What you'll see
 
-![Spinning ASCII Heart GIF](https://github.com/christiankuhl/heart/recording.gif)
+![Spinning ASCII Heart GIF](https://github.com/christiankuhl/heart/blob/23b6110b2ccb6a83811f4b3c0ec615a045aac1b7/recording.gif)
