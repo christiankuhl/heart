@@ -1,6 +1,6 @@
 # Spinning ASCII Heart ❤️
 
-This is a special Rust program that displays a three-dimensional spinning red heart in the terminal using ASCII art. Made with ❤️ for my beloved wife.
+This is a little Rust program that displays a three-dimensional spinning red heart in the terminal using ASCII art. Made with ❤️ for my beloved wife.
 
 ## Source Code
 
